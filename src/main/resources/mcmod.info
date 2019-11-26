@@ -1,0 +1,15 @@
+[
+{
+  "modid": "stonearmor",
+  "name": "Stone Armor",
+  "description": "Stone Armor",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "i i"
+  ],
+  "key": {
+    "i": [
+      {
+        "type": "forge:ore_dict",
+        "ore": "stone"
+      },
+      {
+        "type": "forge:ore_dict",
+        "ore": "cobblestone"
+      }
+    ]
+  },
+  "result": {
+    "item": "stonearmor:stone_helmet"
+  }
+}
